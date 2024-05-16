@@ -8,10 +8,11 @@
   }
   
   #footer {
-    /*position: absolute;*/
+    position: absolute;
     bottom: 0;
     width: 100%;
     height: 2.5rem;            /* Footer height */
+    margin-top: auto;
   }
 
   /*The following css credited to Matt Stevans/stevans.org */
