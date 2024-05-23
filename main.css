@@ -15,36 +15,11 @@
     margin-top: auto;
   }
 
-ul {
-  padding: 0;
-  margin-top:10px;
-  width: 100%;
-}
-li {
-  display: inline;
-}
-a {
-  outline: none;
-  text-decoration: none;
-  display: inline-block;
-  margin-left: 1%;
-  text-align: center;
-  padding: 10px;
-  box-sizing: border-box;
-  width:31%;
-  color: white;
-  background-color: lightblue;
-}
-a:hover {
-  background: blue;
-}
-
   /*The following css credited to Matt Stevans/stevans.org */
 
   /* This creates the counter  */
 body {
-  counter-reset: cb_counter_var; 
-  margin: 0;
+  counter-reset: cb_counter_var;
 }
 
 /* This increments the counter value and defines 
