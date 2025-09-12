@@ -1,4 +1,4 @@
 - 👋 Hi, I’m "mheli0s".
 - 👀 I’m interested in all things tech, gym, hiking/nature, reading, learning.
 - 🌱 I’m currently learning programming languages, CyberSec, and related topics.                                                                                           
-- 📫 How to reach me - twitter.com/_mheli0s
+- 📫 How to reach me - twitter.com/_mh3li0s
